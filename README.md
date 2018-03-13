@@ -19,7 +19,7 @@ http://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules
 
 3) Installation of Ubuntu 16.04-
 
-a) Dual BOOT Ubuntu 16.04 with Windows
+a) Dual BOOT Ubuntu 16.04 and Windows
 
 https://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/
 
