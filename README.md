@@ -14,7 +14,7 @@ ___
 **Step 1:** [Installation of OpenCV- OpenCV-3.2 with contrib modules in Ubuntu 16.04](http://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/)
 
 ___
-**Anaconda installation- For Linux and windows (Linux preferred)
+**Anaconda installation- For Linux and windows (Linux preferred)**
 
 [Anaconda for windows and Linux](https://www.pugetsystems.com/labs/hpc/How-to-Install-Anaconda-Python-and-First-Steps-for-Linux-and-Windows-917/)
 
