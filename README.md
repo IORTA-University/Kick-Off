@@ -1,4 +1,5 @@
 # Kick-Off- Repository for the initial tasks 
+___
 
 1. [Wiki-page for Kick-off tasks](https://github.com/IORTA-University/Kick-Off/wiki)
 ___
@@ -11,6 +12,8 @@ ___
 **Computer Vision team only**
 
 **Step 1:** [Installation of OpenCV- OpenCV-3.2 with contrib modules in Ubuntu 16.04](http://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/)
+
+___
 
 
 
